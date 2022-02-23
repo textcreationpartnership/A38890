@@ -1,0 +1,369 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact and true account of the proceedings of the sessions begun at the Old-Bayly, on Wednesday January the 17th. 1682. Giving an account of the tryals and condemnations of the several prisoners brought thither. Printed by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38890</idno>
+            <idno type="STC">Wing E3608B</idno>
+            <idno type="STC">ESTC R219772</idno>
+            <idno type="EEBO-CITATION">99831220</idno>
+            <idno type="PROQUEST">99831220</idno>
+            <idno type="VID">35683</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38890)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35683)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2048:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact and true account of the proceedings of the sessions begun at the Old-Bayly, on Wednesday January the 17th. 1682. Giving an account of the tryals and condemnations of the several prisoners brought thither. Printed by authority.</title>
+                  <author>England and Wales. Court of Quarter Sessions of the Peace (London)</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by George Croom, in Thames-street, over against Baynard's Castle,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials --  England --  Early works to 1800.</term>
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:35683:1" rendition="simple:additions"/>
+            <head>AN Exact and True ACCOUNT OF THE PROCEEDINGS OF THE SESSIONS, Begun at the OLD-BAYLY, On
+<hi>Wedneſday January</hi> the 17th. 1682.</head>
+            <head type="sub">Giving an ACCOUNT of the TRYALS and CONDEMNATIONS of the ſeveral PRISONERS
+brought thither.</head>
+            <head type="sub">
+               <hi>Printed by Authority.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg>N <hi>Wedneſday January</hi> the 17th. The <hi>Seſſions</hi> began at the
+<hi>Old-Bayly,</hi> where the <hi>Court</hi> being met, the ſeve<g ref="char:EOLhyphen"/>ral <hi>Offenders</hi> were
+brought up in order to their <hi>Tryals.</hi> And the firſt that appeared on <hi>Middleſex</hi>
+ſide, was <hi>Mary Page,</hi> who was Indicted for ſtealing 2. <hi>s.</hi> 6. <hi>d.</hi> from
+<hi>Francis Bautam,</hi> and after hearing all the Wit<g ref="char:EOLhyphen"/>neſſes on both ſides, the
+<hi>Jury</hi> brought her in <hi>Guilty</hi> of <hi>Felony.</hi>
+            </p>
+            <p>The next was <hi>Elizabeth Neal,</hi> who was <hi>Indicted</hi> for <hi>murdering</hi> her
+<hi>Male-infant Child,</hi> by <hi>choaking</hi> and <hi>ſtrangling,</hi> and it appearing
+<hi>unde<g ref="char:EOLhyphen"/>niable,</hi> ſhe was found <hi>Guilty</hi> of the <hi>Murder.</hi>
+            </p>
+            <p>
+               <pb n="2" facs="tcp:35683:2"/>
+Then <hi>Martha Harvy</hi> received her <hi>Tryal,</hi> ſhe being <hi>Indicted</hi> for that
+ſhe the 4th. of <hi>January</hi> 1682. ſhould <hi>ſteal</hi> three <hi>Silk Hoods</hi> to the
+<hi>value</hi> of 16. <hi>s.</hi> 6. <hi>d.</hi> which being <hi>poſitively proved</hi> upon her,
+ſhe was found <hi>Guilty</hi> of <hi>Felony.</hi>
+            </p>
+            <p>
+               <hi>Nathaniel Daughty</hi> was the next that was <hi>try'd,</hi> who was <hi>accuſed</hi> for
+ſtealing a <hi>Silver Tankard</hi> and <hi>Salt</hi> from <hi>Chriſtopher Vennon,</hi> and a
+<hi>Horſe</hi> valued at 5. <hi>l.</hi> and was, upon hearing all <hi>Circumſtances,</hi> found
+<hi>Guilty.</hi>
+            </p>
+            <p>The next that appeared was <hi>William Williams,</hi> for ſtealing, on <hi>Ja<g ref="char:EOLhyphen"/>nuary</hi> the
+15th. 1682. the <hi>Goods</hi> of <hi>Humphry Middleton, viz.</hi> fifteen weight of <hi>Iron,</hi>
+valued at 2. <hi>s.</hi> and <hi>Tools</hi> to the value of 2. <hi>s.</hi> was found
+<hi>Guilty</hi> to the value of 10. <hi>d.</hi>
+            </p>
+            <p>Then <hi>John Marſh</hi> was <hi>tryed</hi> for <hi>ſtealing</hi> the <hi>Goods</hi> of
+<hi>John Eugnal,</hi> and upon full <hi>Examination</hi> of the <hi>Witneſſes</hi> on both
+ſides, the <hi>Jury</hi> brought him in <hi>Guilty</hi> of the <hi>Fellony.</hi>
+            </p>
+            <p>The next was <hi>Samuel Sadler</hi> for ſtealing a <hi>Horſe</hi> valued at 4. <hi>l.</hi>
+10. <hi>s.</hi> on the 26th. of <hi>December,</hi> 1682. of the <hi>Goods</hi> and
+<hi>Chattels</hi> of <hi>Chriſto<g ref="char:EOLhyphen"/>pher Neal,</hi> and was thereupon found <hi>Guilty</hi> of
+<hi>Fellony.</hi>
+            </p>
+            <p>
+               <hi>Samuel Brooks</hi> was the next that received his <hi>Tryal,</hi> he being indicted for
+ſtealing a <hi>Silver Tankard</hi> the 4th. of <hi>December,</hi> 1682. from <hi>Iſabel
+Riſen,</hi> and was brought in <hi>Guilty</hi> by the <hi>Jury.</hi>
+            </p>
+            <p>The <hi>Joan Wilſon</hi> and <hi>Ann Martin</hi> came to their <hi>Tryals,</hi> for ſtealing
+ſeven and twenty <hi>Shillings</hi> in <hi>December</hi> 1682. from <hi>James Bayly,</hi> but it
+appearing otherwiſe to the <hi>Jury,</hi> they were brought in not <hi>Guilty.</hi>
+            </p>
+            <p>The next was <hi>John Summers</hi> for ſtealing forty Deal-boards, on the 5th. of
+<hi>January</hi> 1682. from <hi>Robert Golding,</hi> was found <hi>Guilty</hi> thereof by the
+<hi>Jury.</hi>
+            </p>
+            <p>
+               <hi>Edward Williams</hi> was the next that came on, and being Indicted for ſtealing ſeveral
+Parcels of <hi>Linnen</hi> on the 20th. of <hi>December,</hi> 1682. from <hi>Sarah</hi> and
+<hi>Thomas Green,</hi> he was found <hi>Guilty</hi> to the value of 10. <hi>d.</hi>
+            </p>
+            <p>Then <hi>James</hi> and <hi>William Greffis</hi> were brought to the Bar, where they were
+Indicted for that they the 15th. of <hi>December</hi> 1682. ſtole a <hi>Canvas Bag,</hi> and
+ninety nine <hi>Guineys</hi> of the <hi>Goods</hi> and <hi>Chattels</hi> of <hi>Tho<g ref="char:EOLhyphen"/>mas
+Middleton;</hi> however they were brought in not <hi>Guilty.</hi>
+            </p>
+            <p>The next was <hi>Mary Quarles,</hi> who was arraigned for ſteeling a <hi>Goat</hi> on the
+firſt of <hi>December</hi> 1682. of the <hi>Goods</hi> and <hi>Chattels</hi> of <hi>Stephen
+Smith,</hi> to the value of 10. <hi>s.</hi>
+            </p>
+            <p>Mr. <hi>Duncumb Abercrony</hi> was the next that appeared, he being In<g ref="char:EOLhyphen"/>dicted for that not
+having the Fear of God before his Eyes, but being moved and ſeduced by the Inſtigation of the
+Devil, did kill <hi>William Godolphin,</hi>
+               <abbr>
+                  <hi>Eſq</hi>
+               </abbr> on the 7th. of
+<hi>December</hi> 1682. and the <hi>Jury,</hi> upon hearing the whole <hi>Matter,</hi> brought him
+in <hi>Guilty</hi> of <hi>Man-ſlaughter;</hi> but the Proſecutors telling the Court they would
+bring in an Appeal, he was obliged to give Bail to anſwer the ſame next Seſſions.</p>
+            <p>The firſt that came to her Tryal on <hi>London</hi> ſide, was <hi>Mary Hollings<g ref="char:EOLhyphen"/>worth,</hi>
+for ſteeling a <hi>Silver Tankard</hi> in <hi>February</hi> 1682. from <hi>William Daws,</hi> but
+it being not poſitively proved, ſhe was brought in not <hi>Guitly.</hi>
+            </p>
+            <p>Then <hi>Geerteny Dewick</hi> was tryed, who was Indicted for ſteeling eleven Yards of
+<hi>Venetian Silk,</hi> on the 11th. of <hi>December</hi> 1682. to
+<pb n="3" facs="tcp:35683:2"/>the value of 13. <hi>l.</hi> 4. <hi>s.</hi> from
+<hi>William Young,</hi> which <hi>Fellony</hi> being pal<g ref="char:EOLhyphen"/>pably proved on him, he was brought in
+<hi>Guilty</hi> of the Indictment.</p>
+            <p>
+               <hi>Richard Carter</hi> was the next, who ſtood Indicted for ſteeling a <hi>Sil<g ref="char:EOLhyphen"/>ver
+Tankard</hi> on the 22th. of <hi>December</hi> 1682. to the value of 5. <hi>l.</hi> 10. <hi>s.</hi>
+from <hi>Samuel Moor,</hi> and was brought in <hi>Guilty</hi> of <hi>Fellony.</hi>
+            </p>
+            <p>Laſtly <hi>Ann Slow</hi> alias <hi>Ebram</hi> was indicted for ſteeling, on the 27th. of
+<hi>October</hi> 1682. four <hi>Holland Smocks,</hi> and other Linnen, and 5. <hi>l.</hi> of the
+Goods and Chattels of <hi>Henry Randall,</hi> and upon hearing of all the Witneſſes on both
+ſides, the <hi>Jury</hi> brought her in <hi>Guilty</hi> of <hi>Fellony.</hi>
+            </p>
+            <p>
+               <hi>Which being all over, the Court adjourn'd till the next Morning.</hi>
+            </p>
+            <p>
+               <hi>January</hi> the 18th. 1682. The Adjourn'd Seſſions being again met this Morning,
+<hi>Richard Fuller</hi> was Arraign'd and Try'd for killing his Servant <hi>Henry Atkins</hi> the 2
+<hi>d.</hi> of <hi>October</hi> 1682. the blow being given with a Tobacco-pipe on
+<hi>Thurſday,</hi> whereof he dyed the <hi>Saturday</hi> fol<g ref="char:EOLhyphen"/>lowing, and the <hi>Jury</hi>
+brought him in Guilty of <hi>Fellony</hi> and <hi>Murder.</hi>
+            </p>
+            <p>Alſo <hi>John Francis</hi> was found Guilty of Fellony, he being indicted for ſteeling a
+Sword from Mr. <hi>Creſſets</hi> ſide the 21ſt. of <hi>December</hi> 1682. to the value of
+10. <hi>s.</hi>
+            </p>
+            <p>Likewiſe <hi>Robert Gilford</hi> was Indicted for ſteeling a Silver Spoon from <hi>John
+Moor</hi> the firſt of <hi>January</hi> 1682. of which he was found Guilty.</p>
+            <p>
+               <hi>Iſabel Stewardſon</hi> being indicted for ſteeling Linnen, <hi>&amp;c.</hi> from
+<hi>Ri<g ref="char:EOLhyphen"/>chard Fryers</hi> in <hi>Auguſt</hi> laſt, was try'd, but brought in not Guilty.</p>
+            <p>
+               <hi>John Nicols</hi> and <hi>John Wiſe</hi> were found Guilty of ſteeling Braſs Andi<g ref="char:EOLhyphen"/>rons,
+and Silk from <hi>John Moſs</hi> the fifth of <hi>January.</hi>
+            </p>
+            <p>
+               <hi>Samuel Painter</hi> was brought in Guilty for ſteeling a Spice Box, a Bible, and a Sheet,
+the ſecond of <hi>January,</hi> from <hi>William Sherriff.</hi>
+            </p>
+            <p>
+               <hi>Andrew Whitehand</hi> and <hi>Joan Hope,</hi> were tryed for Clipping and Di<g ref="char:EOLhyphen"/>miniſhing
+twenty pieces of Silver, Queen <hi>Elizabeths</hi> Shillings, twenty of King <hi>James</hi>'s
+Shillings, and twenty pieces of King <hi>Charles's,</hi> but were clear'd.</p>
+            <p>Alſo <hi>Stephen Gaul</hi> and <hi>Alexander Noble</hi> were try'd for vending falſe Money,
+and counterfeit Coin to <hi>Sarah Germy,</hi> but were clear'd.</p>
+            <p>
+               <hi>Ann Saxby</hi> alias <hi>Bell</hi> alias <hi>Cole,</hi> was Guilty of ſteeling Silk,
+Plate, Linnen, and other Goods, the fifth of <hi>December,</hi> from <hi>Thomas Wards,</hi> to the
+value of 60. <hi>l.</hi>
+            </p>
+            <p>
+               <hi>Stephen Nod</hi> being Indicted for ſteeling a Sword, was clear'd.</p>
+            <p>
+               <hi>Thomas Aylet</hi> was found Guilty of ſteeling a Sow and two Pigs, to the value of 3.
+<hi>l.</hi> on the ſixth of <hi>December,</hi> from <hi>Margaret Stanly.</hi>
+            </p>
+            <p>
+               <hi>Robert Brand</hi> was Indicted for ſteeling a Copper Pot, the ſecond of
+<hi>January,</hi> and eighteen Yards of Silk from <hi>Joſeph Roe,</hi> and broke open the Houſe
+at four a Clock in the Morning, and was found Guilty to the value of 7. <hi>s.</hi>
+            </p>
+            <p>
+               <hi>William Heywood</hi> was found Guilty of Fellony, for ſteeling an Ewe and Sheep the
+thirteenth of <hi>January.</hi>
+            </p>
+            <p>
+               <hi>Katherine Sawyer</hi> and <hi>Thomas Summers</hi> were Indicted for ſteeling two
+Hogſheads of Wine, Sheets, and a Hat, the Fourth of <hi>Auguſt,</hi> from <hi>William
+Metchlife,</hi> but were clear'd.</p>
+            <pb n="4" facs="tcp:35683:3"/>
+            <p>
+               <hi>Mary Whaley</hi> was Indicted for being acceſſary to a Robbery, per<g ref="char:EOLhyphen"/>petrated by
+<hi>Edward Johnſon,</hi> but was alſo brought in not Guilty.</p>
+            <p>
+               <hi>John Smith</hi> was convicted of Fellony, for ſteeling a Gelding from <hi>Phillip</hi>
+Earl of <hi>Pembrook,</hi> to the value of 30. <hi>l.</hi>
+            </p>
+            <p>
+               <hi>Charles Beckwith</hi> was Indicted for the ſame, but was cleared.</p>
+            <p>
+               <hi>Sarah Parns</hi> and <hi>Suſanna Smith</hi> for robbing <hi>Margaret Peck</hi> of 20.
+<hi>l.</hi> on the High-way, but were cleared.</p>
+            <p>
+               <hi>William Dotty</hi> was found Guilty of ſteeling a Horſe from <hi>Nicholas Bell,</hi> to
+the value of 5. <hi>l.</hi>
+            </p>
+            <p>
+               <hi>Mary Quarls</hi> being Indicted for ſteeling a Coat and Weſtcoat, and other Goods, to
+the value of 50. s. from <hi>Zachary Smith,</hi> was brought in Not Guilty.</p>
+            <list>
+               <head>There were fourteen Perſons burnt on the Hand, <hi>viz.</hi>
+               </head>
+               <item>
+                  <hi>Daniel Cauly</hi> and <hi>John Summers</hi> for ſteeling the Goods of <hi>Bernard
+Gold,</hi> to the value of 23. <hi>s.</hi> 4. <hi>d.</hi>
+               </item>
+               <item>
+                  <hi>John Francis</hi> for ſtealing the Goods of <hi>John Creſſet,</hi> to the value of
+10. <hi>d.</hi>
+               </item>
+               <item>
+                  <hi>Robert Gilford</hi> for ſteeling the Goods of <hi>John Moor,</hi> to the value of 5.
+s.</item>
+               <item>
+                  <hi>John Nicols</hi> and his Wife for ſteeling the Goods of <hi>John Boughton,</hi> to the
+value of 16. s.</item>
+               <item>
+                  <hi>John Aylet</hi> for ſteeling the Goods of <hi>Katherine Stanly,</hi> to the value of 4.
+<hi>l.</hi>
+               </item>
+               <item>
+                  <hi>Robert Brand</hi> for ſteeling the Goods of <hi>Joſeph Row,</hi> to the value of 3.
+<hi>l.</hi> 10. <hi>s.</hi>
+               </item>
+               <item>
+                  <hi>William Heywood</hi> for ſteeling the Goods of <hi>James Golder,</hi> to the value of
+10. s.</item>
+               <item>
+                  <hi>Ann Saxly</hi> for ſtealing Goods, to the value of 9. s.</item>
+               <item>
+                  <hi>Richard Carter</hi> for ſteeling Goods to the value of 5. l. 10. s. from <hi>Samuel
+Booth.</hi>
+               </item>
+               <item>
+                  <hi>Samuel Painter</hi> for ſteeling Goods to the value of 9. s. from <hi>William
+Sherriff.</hi>
+               </item>
+            </list>
+            <p>Judgment is defer'd for <hi>Martha Page</hi> and <hi>Duncomb Abercrony.</hi>
+            </p>
+            <list>
+               <head>There were two Perſons to be whip'd.</head>
+               <item>
+                  <hi>Will. VVilliams</hi> for ſteeling the Goods of <hi>Hum. Middlemore,</hi> value 10.
+<hi>d.</hi>
+               </item>
+               <item>
+                  <hi>Edward VVilliams</hi> for ſteeling Goods to the value of 8. <hi>d.</hi>
+               </item>
+            </list>
+            <p>There were twelve Perſons that received Sentence of Death, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Richard Fuller</hi> for murdering his Servant <hi>Henry Atkins. John Smith. Elizabeth
+Neal</hi> for murdering her Infant Boy. <hi>Martha Harvy</hi> for ſteel<g ref="char:EOLhyphen"/>ing the Goods of
+<hi>Edward North,</hi> to the value of 13. s. 6. d. <hi>VVilliam Dotty. Nathaniel Doughty</hi> for
+ſtealing Goods valued at 3. <hi>l. John Marſh</hi> for ſteeling from <hi>John
+Buckland</hi> valued 3. <hi>l. Samuel Sadler</hi> for ſteeling Goods to the value of 4.
+<hi>l.</hi> 10. s. <hi>Sarah Brooks</hi> for ſteeling Goods to the value of 8. s.<hi>Geertery
+Derrick</hi> for ſteeling from <hi>VVilliam Young</hi> the value of 15. l. <hi>Ann Slow</hi>
+alias <hi>Abraham,</hi> for ſteeling the Goods of <hi>Henry Randal,</hi> to the value of 41.
+<hi>s.</hi> and 5. <hi>d.</hi> in Money. <hi>Francis Muſ<g ref="char:EOLhyphen"/>grove</hi> for ſteeling the Goods of
+<hi>George Bagnal,</hi> to the value of 10. l.</p>
+            <p>And ſeveral Perſons that were bound over, having made their ap<g ref="char:EOLhyphen"/>pearance, the Seſſions
+ended about eight of the Clock on <hi>Thurſday</hi> night.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>George Croom,</hi> in <hi>Thames-ſtreet,</hi> over againſt
+<hi>Baynard's Caſtle,</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
